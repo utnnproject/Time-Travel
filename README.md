@@ -5,6 +5,9 @@ In this project, we are creating a custom environment. The environment is trivia
 ## Method
 
 ## Enviroment
+https://github.com/utnnproject/gym-minigrid
+
+## Custom enviroment
 
 ### Torch-RL
 https://colab.research.google.com/drive/1d_Q-TN6thTnrNIIqsKo72UI0L01jB_zr?usp=sharing
