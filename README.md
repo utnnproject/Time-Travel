@@ -12,4 +12,15 @@ https://github.com/utnnproject/gym-minigrid
 
 ## Result of Time-Travel
 
+## References
+<a id="1">[1]</a> 
+https://github.com/DLR-RM/stable-baselines3
 
+<a id="2">[2]</a> 
+https://github.com/DLR-RM/rl-baselines3-zoo
+
+<a id="3">[3]</a> 
+https://github.com/lcswillems/rl-starter-files
+
+<a id="4">[4]</a> 
+https://github.com/lcswillems/torch-ac
