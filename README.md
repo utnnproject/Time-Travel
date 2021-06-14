@@ -45,10 +45,12 @@ Now this is exploration using time-travel. The agent is going back on time so it
 
 ![with_time](https://user-images.githubusercontent.com/46148181/121874655-3c505300-cd10-11eb-8616-b4839eb6337b.gif)
 
+The following figure is the heatmap of time-travel position. You can see that the agent is often using time-travel when they see the left end and right end.  
 <p align="center">
 <img src="figures/heatmap_timetravel_LineCorridor_10M_r4.png" width=600>
 </p>
 
+The following figure is the heatmap of agent position. 
 <p align="center">
 <img src="figures/heatmap_position_LineCorridor_10M_r4_1.png" width=600>
 </p>
