@@ -35,7 +35,7 @@ This is the exploration without using time-travel. You can see that the agent is
 
 Now this is exploration using time-travel. The agent is going back on time so it can reach to end point with less exploration.
 
-![with_time](https://user-images.githubusercontent.com/46148181/121861246-57b46180-cd02-11eb-8643-17316b8495cc.gif)
+![with_time](https://user-images.githubusercontent.com/46148181/121874655-3c505300-cd10-11eb-8616-b4839eb6337b.gif)
 
 ## References
 <a id="1">[1]</a> 
