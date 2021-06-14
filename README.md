@@ -28,6 +28,14 @@ We used a method called time-travel to make the agent learn more efficient. By u
 
 The past frames are memorized in a list and this list is updated every frame. When the length of this list is more than 7, the agent can take an option to go back frames.
 
+## Training
+To train the agents you can code below. `--recurrence x` will add memory for training.
+
+```
+python -m scripts.train --algo ppo --env <environment name(.ex MiniGrid-Customs-LineCorridor-v0)> --model <model_name> --recurrence 4 --save-interval 10 --frames 5000000 --lr 0.0003 --discount 0.95
+```
+
+
 ## Result of Time-Travel
 This is the exploration without using time-travel. You can see that the agent is exploring across the map to find the end point.
 
@@ -37,12 +45,6 @@ Now this is exploration using time-travel. The agent is going back on time so it
 
 ![with_time](https://user-images.githubusercontent.com/46148181/121874655-3c505300-cd10-11eb-8616-b4839eb6337b.gif)
 
-## Training
-To train the agents you can code below. `--recurrence x` will add memory for training.
-
-```
-python -m scripts.train --algo ppo --env <environment name(.ex MiniGrid-Customs-LineCorridor-v0)> --model <model_name> --recurrence 4 --save-interval 10 --frames 5000000 --lr 0.0003 --discount 0.95
-```
 
 ## References
 <a id="1">[1]</a> 
