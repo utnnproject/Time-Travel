@@ -39,20 +39,18 @@ python -m scripts.train --algo ppo --env <environment name(.ex MiniGrid-Customs-
 ## Result of Time-Travel
 This is the exploration without using time-travel. You can see that the agent is exploring across the map to find the end point.
 
-<p align="center">
 ![without_time](https://user-images.githubusercontent.com/46148181/121874370-fa271180-cd0f-11eb-8066-f00c1063cef4.gif)
-</p>
   
 Now this is exploration using time-travel. The agent is going back on time so it can reach to end point with less exploration.
 
 ![with_time](https://user-images.githubusercontent.com/46148181/121874655-3c505300-cd10-11eb-8616-b4839eb6337b.gif)
 
-<p align="center">
-<img src="figures/heatmap_timetravel_LineCorridor_10M_r4.png" width=350>
+<p>
+<img src="figures/heatmap_timetravel_LineCorridor_10M_r4.png" width=500>
 </p>
 
-<p align="center">
-<img src="figures/heatmap_position_LineCorridor_10M_r4_1.png" width=350>
+<p>
+<img src="figures/heatmap_position_LineCorridor_10M_r4_1.png" width=500>
 </p>
 
 ## References
