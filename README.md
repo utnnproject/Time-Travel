@@ -15,6 +15,7 @@ https://github.com/utnnproject/gym-minigrid
 ## Custom enviroment
 We made our own custom enviroment for using time-travel. In the customs.py file, we defined our simple enviroment for the project.
 
+
 ## Time-Travel
 We used a method called time-travel to make the agent learn more efficient. By using time-travel, agent now has a option to go back few frames before to the current frame and change decisions to reach the end point more efficiently.
 ## Result of Time-Travel
