@@ -60,6 +60,11 @@ The following figure is the heatmap of agent position. Agent is coming back to t
 <img src="figures/heatmap_position_LineCorridor_10M_r4_1.png" width=600>
 </p>
 
+The following figure is the rewards that agent gain for each frames. You can see that the agent doesn't gain rewards on the first but after 2 million frames the agent finds the optimal solution and the gain reward become stable.
+
+<p align="center">
+<img src="figures/image_2021-06-14_12-37-40.png" width=600>
+</p>
 ## References
 <a id="1">[1]</a> 
 https://github.com/DLR-RM/stable-baselines3
