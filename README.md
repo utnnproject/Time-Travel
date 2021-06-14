@@ -46,7 +46,9 @@ This is the exploration without using time-travel. You can see that the agent is
   
 Now this is exploration using time-travel. The agent is going back on time so it can reach to end point with less exploration.
 
-![with_time](https://user-images.githubusercontent.com/46148181/121874655-3c505300-cd10-11eb-8616-b4839eb6337b.gif)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/46148181/121874655-3c505300-cd10-11eb-8616-b4839eb6337b.gif" alt="animated" />
+</p>
 
 The following figure is the heatmap of time-travel position. You can see that the agent is often using time-travel when they see the left end and right end.  
 <p align="center">
