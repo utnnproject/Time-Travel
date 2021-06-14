@@ -65,7 +65,9 @@ The following figure is the rewards that agent gain for each frames. You can see
 <p align="center">
 <img src="figures/image_2021-06-14_12-37-40.png" width=600>
 </p>
+
 ## References
+
 <a id="1">[1]</a> 
 https://github.com/DLR-RM/stable-baselines3
 
