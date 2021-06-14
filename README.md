@@ -26,7 +26,7 @@ We used a method called time-travel to make the agent learn more efficient. By u
 <img src="time_code.PNG" width=500>
 </p>
 
-The past frames are memorized in a list an this list is updated every frame. When the length of this list more than 7, the agent can take an option to go back frames.
+The past frames are memorized in a list an this list is updated every frame. When the length of this list is more than 7, the agent can take an option to go back frames.
 
 ## Result of Time-Travel
 This is the exploration without using time-travel. You can see that the agent is exploring across the map to find the end point.
