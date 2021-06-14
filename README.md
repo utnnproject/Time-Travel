@@ -24,7 +24,7 @@ We used a method called time-travel to make the agent learn more efficient. By u
 
 ## Result of Time-Travel
 
-
+https://user-images.githubusercontent.com/46148181/121858438-4a49a800-ccff-11eb-9a80-287bbcbb0207.mp4
 
 ## References
 <a id="1">[1]</a> 
