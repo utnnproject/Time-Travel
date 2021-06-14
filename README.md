@@ -38,7 +38,7 @@ Now this is exploration using time-travel. The agent is going back on time so it
 ![with_time](https://user-images.githubusercontent.com/46148181/121874655-3c505300-cd10-11eb-8616-b4839eb6337b.gif)
 
 ## Training
-To train the agents you can code below.
+To train the agents you can code below. `--recurrence x` will add memory for training.
 
 ```
 python -m scripts.train --algo ppo --env MiniGrid-Customs-LineCorridor-v0 --model <model_name> --recurrence 4 --save-interval 10 --frames 5000000 --lr 0.0003 --discount 0.95
