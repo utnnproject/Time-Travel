@@ -40,9 +40,9 @@ Now this is exploration using time-travel. The agent is going back on time so it
 ## Training
 To train the agents you can code below.
 
-'''
+```
 python -m scripts.train --algo ppo --env MiniGrid-Customs-LineCorridor-v0 --model <model_name> --recurrence 4 --save-interval 10 --frames 5000000 --lr 0.0003 --discount 0.95
-'''
+```
 
 ## References
 <a id="1">[1]</a> 
