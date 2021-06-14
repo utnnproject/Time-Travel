@@ -50,7 +50,7 @@ The following figure is the heatmap of time-travel position. You can see that th
 <img src="figures/heatmap_timetravel_LineCorridor_10M_r4.png" width=600>
 </p>
 
-The following figure is the heatmap of agent position. 
+The following figure is the heatmap of agent position. Agent is coming back to the center of the map by using time-travel. 
 <p align="center">
 <img src="figures/heatmap_position_LineCorridor_10M_r4_1.png" width=600>
 </p>
