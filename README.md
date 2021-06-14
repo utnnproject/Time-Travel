@@ -24,9 +24,11 @@ We used a method called time-travel to make the agent learn more efficient. By u
 
 ## Result of Time-Travel
 This is the exploration without using time-travel. You can see that the agent is exploring across the map to find the end point.
+
 https://user-images.githubusercontent.com/46148181/121859341-423e3800-cd00-11eb-9b66-c8fb2e502fab.mp4
 
 Now this is exploration using time-travel. The agent is going back on time so it can reach to end point with less exploration.
+
 https://user-images.githubusercontent.com/46148181/121859441-5eda7000-cd00-11eb-99f2-e8ddf123bf89.mp4
 
 ## References
