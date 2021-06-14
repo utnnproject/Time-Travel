@@ -41,7 +41,7 @@ Now this is exploration using time-travel. The agent is going back on time so it
 To train the agents you can code below. `--recurrence x` will add memory for training.
 
 ```
-python -m scripts.train --algo ppo --env MiniGrid-Customs-LineCorridor-v0 --model <model_name> --recurrence 4 --save-interval 10 --frames 5000000 --lr 0.0003 --discount 0.95
+python -m scripts.train --algo ppo --env <environment name(.ex MiniGrid-Customs-LineCorridor-v0)> --model <model_name> --recurrence 4 --save-interval 10 --frames 5000000 --lr 0.0003 --discount 0.95
 ```
 
 ## References
