@@ -24,6 +24,10 @@ We used a method called time-travel to make the agent learn more efficient. By u
 
 ## Result of Time-Travel
 
+<p align="center">
+<img src="LineCorridorStable.gif.mp4" width=350>
+</p>
+
 ## References
 <a id="1">[1]</a> 
 https://github.com/DLR-RM/stable-baselines3
