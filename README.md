@@ -16,7 +16,7 @@ https://github.com/utnnproject/gym-minigrid
 We made our own custom enviroment for using time-travel. In the customs.py file, we defined our simple enviroment for the project.
 
 <p align="center">
-<img src="image_2021-06-11_11-15-53.png" width=250>
+<img src="image_2021-06-11_11-15-53.png" width=350>
 </p>
 
 ## Time-Travel
