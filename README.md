@@ -20,7 +20,7 @@ We made our own custom enviroment for using time-travel. In the customs.py file,
 </p>
 
 ## Time-Travel
-We used a method called time-travel to make the agent learn more efficient. By using time-travel, agent now has a option to go back few frames before to the current frame and change decisions to reach the end point more efficiently.
+We used a method called time-travel to make the agent learn more efficient. By using time-travel, agent now has a option to go back few frames before to the current frame and change decisions to reach the end point more efficiently. We defined the function of time-travel on the minigrid.py file.
 
 ## Result of Time-Travel
 
